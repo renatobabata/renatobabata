@@ -1,5 +1,5 @@
 ### Hello World, I'm Renato 👋👨‍💻 
-####Positive Thinker :star2:
+#### Positive Thinker :star2:
 
 - 🔭 I’m currently working on Web Development
 - :computer: Work experience with : Java, JavaScript, Bixby, Machine Learning, Git/Github, GitLab, HTML, CSS, Oracle, Windows/Linux, IBM Netcool
