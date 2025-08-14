@@ -1,9 +1,20 @@
 ### Hello World, I'm Renato 👋👨‍💻 
 #### Positive Thinker :star2:
 
-- :computer: Work experience with : Bixby, Machine Learning, NLP, Git/Github, GitLab, HTML, CSS, Oracle, Windows/Linux, IBM Netcool, Java, JavaScript
-- 💬 Ask me about anything, I am happy to help you
-- 📫 How to reach me: babatarenato@gmail.com
-- LinkedIn : [Renato Babata](https://www.linkedin.com/in/renato-babata/)
-- :earth_americas: Languages : Portuguese (native), English (advanced), Spanish (advanced), Japanese (intermediate)
+:computer: Work experience with
+- **Containers & Orchestration**: Kubernetes, Docker, Helm
+- **Monitoring & Observability**: Prometheus, Grafana
+- **Cloud & DevOps**: Azure, GitLab CI/CD
+- **Programming Languages & Databases**: Python, JavaScript, SQL, NoSQL, HBase
+- **Other Tools**: Apache Kafka, REST APIs, Jira, Agile/SCRUM
+
+💬 Ask me about anything, I am happy to help  
+:briefcase: **LinkedIn** : [Renato Babata](https://www.linkedin.com/in/renato-babata/)  
+:earth_americas: **Languages** :  
+Portuguese (native)  
+English (advanced)  
+Spanish (advanced)  
+Japanese (intermediate)  
+French (intermediate)  
+Chinese (beginner)
   
