@@ -8,7 +8,6 @@
 - **Programming Languages & Databases**: Python, JavaScript, SQL, NoSQL, HBase
 - **Other Tools**: Apache Kafka, REST APIs, Jira, Agile/SCRUM
 
-💬 Ask me about anything, I am happy to help  
 :briefcase: **LinkedIn** : [Renato Babata](https://www.linkedin.com/in/renato-babata/)  
 :earth_americas: **Languages** :  
 Portuguese (native)  
